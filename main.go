@@ -5,8 +5,8 @@ package main
 import (
 	"net/http"
 
-	bookcontroller "github.com/aldeny/go-crud-library/controllers/book-controller"
-	"github.com/aldeny/go-crud-library/models"
+	bookcontroller "github.com/aldeny/go-rest-api/controllers/book-controller"
+	"github.com/aldeny/go-rest-api/models"
 	"github.com/gorilla/mux"
 )
 

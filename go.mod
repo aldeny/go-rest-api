@@ -1,4 +1,4 @@
-module github.com/aldeny/go-crud-library
+module github.com/aldeny/go-rest-api
 
 go 1.19
 

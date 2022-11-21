@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/aldeny/go-crud-library/helper"
-	"github.com/aldeny/go-crud-library/models"
+	"github.com/aldeny/go-rest-api/helper"
+	"github.com/aldeny/go-rest-api/models"
 	"github.com/gorilla/mux"
 	"gorm.io/gorm"
 )
